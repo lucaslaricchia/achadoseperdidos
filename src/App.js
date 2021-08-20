@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="app-container">
       <div className="home-card">
-        <p>Bem vindo ao achados e perdidos de animais.</p>
+        <h1 className="title">Achados e perdidos de animais.</h1>
       </div>
     </div>
   );
